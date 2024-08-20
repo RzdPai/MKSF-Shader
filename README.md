@@ -10,4 +10,7 @@
 
 未来的更新 景深，动态模糊，云，矿物发光，水下阴影
 
-其它 [Open4ES Renewed](https://modrinth.com/shader/open4es-renewed)这款光影效果更好但优化较差
+其它 如果您的设备支持Vulkan但zink闪退，可以试试在PojavLauncher的目录(/storage/emulated/0/Android/data/net.kdt.pojavlaunch/files/)下创建一个名为custom_env.txt的文件，并在里面输入MESA_GL_VERSION_OVERRIDE=4.6
+MESA_GLSL_VERSION_OVERRIDE=460
+
+[Open4ES Renewed](https://modrinth.com/shader/open4es-renewed)这款光影效果更好但优化较差
