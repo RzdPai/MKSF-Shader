@@ -20,7 +20,9 @@ Open4ES最新的Beta7版本添加了一些效果，此光影特点已无，待�
 
 ### 其它
 如果您的设备支持Vulkan但zink闪退，可以试试在PojavLauncher的目录(/storage/emulated/0/Android/data/net.kdt.pojavlaunch/files/)下创建一个名为custom_env.txt的文件，并在里面输入
-[MESA_GL_VERSION_OVERRIDE=4.6
-MESA_GLSL_VERSION_OVERRIDE=460].
+```bash
+MESA_GL_VERSION_OVERRIDE=4.6
+MESA_GLSL_VERSION_OVERRIDE=460
+```
 
 [Open4ES Renewed](https://modrinth.com/shader/open4es-renewed)这款光影效果更好但优化较差
