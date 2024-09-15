@@ -2,7 +2,7 @@
 
 ### 为什么制作
 
-基于* [Open4es](https://github.com/Open4Es/Open4Es-Shader-Android)
+* 基于[Open4es](https://github.com/Open4Es/Open4Es-Shader-Android)
 由于pojavlauncher的最新测版移除了vgpu，virgl，并且一些设备不支持zink，angle暂时不支持光影，因此制作了这款着色器
 
 ### 特点
@@ -11,7 +11,7 @@
 
 ### 已知问题
 
-暂不支持iris，和Open4es一样，除骁龙和部分较早联发科机型外会出现渲染Bug，1.17后的OptiFine上不会正常工作(树叶抽搐及矮草不晃已修复但暂未发布)
+* 暂不支持iris，和Open4es一样，除骁龙和部分较早联发科机型外会出现渲染Bug，1.17后的OptiFine上不会正常工作(树叶抽搐及矮草不晃已修复但暂未发布)
 
 ### 未来的更新
 
