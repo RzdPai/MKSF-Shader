@@ -1,6 +1,6 @@
 # MKSF-Shader
 
-<img src="common/src/main/icon.png" width="128">
+<img src="icon.png" width="128">
 
 ### 为什么制作
 
