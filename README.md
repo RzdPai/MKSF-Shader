@@ -1,5 +1,7 @@
 # MKSF-Shader
 
+<img src="common/src/main/icon.png" width="128">
+
 ### 为什么制作
 
 * 基于[Open4es](https://github.com/Open4Es/Open4Es-Shader-Android)
